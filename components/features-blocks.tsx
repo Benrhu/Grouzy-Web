@@ -56,9 +56,6 @@ export default function FeaturesBlocks() {
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">
                 Website development
               </h4>
-              <p className="text-gray-600 text-center">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              </p>
             </div>
 
             {/* 2nd item */}
@@ -97,9 +94,6 @@ export default function FeaturesBlocks() {
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">
                 Blockchain Development
               </h4>
-              <p className="text-gray-600 text-center">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              </p>
             </div>
 
             {/* 3rd item */}
@@ -141,9 +135,6 @@ export default function FeaturesBlocks() {
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">
                 AI development
               </h4>
-              <p className="text-gray-600 text-center">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              </p>
             </div>
           </div>
         </div>
